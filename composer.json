@@ -1,0 +1,8 @@
+{
+    "name": "solaio/bcphp",
+    "type": "project",
+    "require": {
+        "ramsey/uuid": "^3.7",
+        "j4mie/idiorm": "^1.5"
+    }
+}
