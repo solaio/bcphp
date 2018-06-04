@@ -7,8 +7,8 @@
  * @category Brockchain
  * @package  Bcphp
  * @author   sola <sola.io.er@gmail.com>
- * @license  None
- * @version  1.0
+ * @license  The MIT license https://opensource.org/licenses/mit-license.php
+ * @version  1.1
  * @link     https://qiita.com/hidehiro98/items/841ece65d896aeaa8a2a
  * @link     http://co.bsnws.net/article/107
  * @link     https://qiita.com/iritec/items/5342a8b6031c982c85c4
